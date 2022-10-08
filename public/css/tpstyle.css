@@ -1,0 +1,222 @@
+.head {
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #411CA3;
+    font-family: 'bogart';
+
+}
+
+
+
+.pengertian {
+    color: #118995;
+}
+
+.fungsi {
+    color: #DC7171;
+}
+
+.bagian {
+    color: #F0C055;
+}
+
+.nav-link,
+.text {
+    font-size: 20px;
+}
+
+.navbar .textlogo {
+    font-size: 40px;
+}
+
+.nav-link:active,
+.nav-link:focus,
+.nav-link:hover {
+    background-color: #F0C055;
+}
+
+.dropdown-menu {
+    background-color: #F0C055;
+}
+
+.dropdown-item:active,
+.dropdown-item:focus,
+.dropdown-item:hover {
+    background-color: #ffffff26;
+}
+
+#main .headlink,
+#main .decs {
+    color: #fff;
+}
+
+#main .headlink {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#main .decs {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.jumbotron {
+    background-color: #fff;
+    width: 100%;
+    border-radius: 20px;
+    height: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.nav-tabs .nav-item {
+    border-radius: 40px;
+    background-color: #F0C055 !important;
+    color: #fff !important;
+    border: none;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0 5px;
+}
+
+.nav-tabs .nav-item:active,
+.nav-tabs .nav-item:focus,
+.nav-tabs .nav-item:hover {
+    background-color: #f5b323 !important;
+    color: #fff;
+}
+
+.nav-tabs .nav-item:active {
+    background-color: #f2a705 !important;
+}
+
+.tab-content .jumbotron {
+    margin-top: -20px;
+}
+
+.main-content .judul {
+    font-weight: 500;
+}
+
+.main-content .text {
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.exam .timer {
+    background-color: #F0C055;
+    width: 280px;
+    height: 160px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 100px;
+
+}
+
+.exam .jumbotron {
+    background-color: #F0C055;
+
+}
+
+.exam .jumbotron {
+    width: 80%;
+    height: 60vh;
+}
+
+.buttonexam {
+    margin-left: 100px;
+}
+
+.buttonexam .btn-success :focus,
+.buttonexam .btn-success :active,
+.buttonexam .btn-success :hover {
+    background-color: #108f7c !important;
+}
+
+.buttonexam .btn-success {
+    background-color: #40B3A2;
+    border: none;
+    width: 100px;
+    height: 45px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.buttonexam .btn-primary :focus,
+.buttonexam .btn-primary :active,
+.buttonexam .btn-primary :hover {
+    background-color: #5130FF !important;
+}
+
+.buttonexam .btn-primary {
+    background-color: #5130FF;
+    border: none;
+    width: 100px;
+    height: 45px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.pagination .page-item {
+    margin-left: 10px;
+}
+
+.pagination .page-link {
+    font-size: 20px;
+    background-color: #F0C055;
+    border: none;
+    color: #fff;
+}
+
+
+
+.exam .soal p {
+    font-size: 30px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.exam .main-exam p {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.halaman {
+    margin-left: 50px;
+    padding-top: 50px;
+}
+
+.pertanyaan p,
+.main-time p {
+    font-size: 30px;
+    font-weight: 500;
+    color: #fff;
+
+}
+
+.table.bg-warning {
+
+    font-size: 25px;
+    color: #fff;
+    background-color: #F0C055 !important;
+}
